@@ -1,7 +1,7 @@
 {
-  "hash": "ab53d83db87463ef53f5cbd893f08fc4",
+  "hash": "d9ce79d1edb1993e33c09c30a87a4441",
   "result": {
-    "markdown": "---\ntitle: \"template1\"\n---\n\n\nThis is a Quarto website.\n\nTo learn more about Quarto websites visit <https://quarto.org/docs/websites>.\n\n\n::: {.cell}\n\n```{.r .cell-code}\n1 + 1\n```\n\n::: {.cell-output .cell-output-stdout}\n```\n[1] 2\n```\n:::\n:::\n",
+    "markdown": "---\ntitle: \"EndingLoneliness\"\n---\n\n\n\n“Join the Conversation, End the Loneliness”\n\n“Where Connections Begin, Loneliness Ends”\n\n“Because No One Should Feel Alone”\n\n\n\nWelcome to my first website!\n\nStay tuned for updates\n\n\n\n\n::: {.cell}\n\n```{.r .cell-code}\n1 + 1\n```\n\n::: {.cell-output .cell-output-stdout}\n```\n[1] 2\n```\n:::\n:::\n",
     "supporting": [],
     "filters": [
       "rmarkdown/pagebreak.lua"

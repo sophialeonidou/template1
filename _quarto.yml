@@ -3,13 +3,25 @@ project:
   output-dir: docs
  
 website:
-  title: "template1"
+  title: "EndingLoneliness"
   navbar:
     left:
       - href: index.qmd
         text: Home
       - about.qmd
-
+      - href: IdealOutcome.qmd
+        text: Ideal Outcome
+      - href: TrustBuilding.qmd
+        text: Trust Building
+      - href: IsThisforMe.qmd
+        text: Is This for Me?
+      - href: InformationAbouttheProduct.qmd
+        text: Information About the Product
+      - href: ComparisonwithCompetitors.qmd
+        text: Comparison with Competitors
+        
+        
+    logo: images/Ending_Loneliness_Logo.png
 format:
   html:
     theme: cosmo

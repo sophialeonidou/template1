@@ -2,8 +2,10 @@
 title: "About"
 ---
 
-About this site
+EndingLoneliness is an innovative online service platform designed to combat loneliness and foster meaningful connections by providing a safe space for individuals to share their everyday or personal challenges through group calls. 
 
-```{r}
-1 + 1
-```
+Targeting adults with demanding lifestyles, the platform offers a convenient and accessible solution for those who struggle to engage in traditional social interactions. Unlike therapy or mental health services, EndingLoneliness focuses on mutual understanding, listening, and support, without offering clinical or psychological advice. 
+
+By ensuring anonymity and creating an inclusive environment, the platform empowers users to express themselves freely and connect with others who share similar experiences. Through these interactions, clients can experience emotional relief, build supportive peer networks, and even form lasting relationships, all while feeling valued and heard.
+
+

@@ -4,5 +4,29 @@
   },
   "about.qmd": {
     "about.html": "b7910646"
+  },
+  "Tab1.qmd": {
+    "Tab1.html": "43ea179d"
+  },
+  "Tab2.qmd": {
+    "Tab2.html": "3d9ae0b0"
+  },
+  "IdealOutcome.qmd": {
+    "IdealOutcome.html": "162a341f"
+  },
+  "TrustBuilding.qmd": {
+    "TrustBuilding.html": "583738d6"
+  },
+  "IsThisforMe?.qmd": {
+    "IsThisforMe?.html": "9fd4aed0"
+  },
+  "InformationAbouttheProduct.qmd": {
+    "InformationAbouttheProduct.html": "d3b4aff3"
+  },
+  "ComparisonwithCompetitors.qmd": {
+    "ComparisonwithCompetitors.html": "8ae67cd8"
+  },
+  "IsThisforMe.qmd": {
+    "IsThisforMe.html": "12878ebd"
   }
 }
